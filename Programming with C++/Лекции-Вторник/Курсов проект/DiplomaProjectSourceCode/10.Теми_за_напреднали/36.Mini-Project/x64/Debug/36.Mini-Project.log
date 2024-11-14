@@ -1,0 +1,31 @@
+﻿  Program.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\type_traits(1714,98): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Program.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\type_traits(1714,98):
+      the template instantiation context (the oldest one first) is
+          D:\University\Programming with C++\Лекции-Вторник\Курсов проект\DiplomaProjectSourceCode\10.Теми_за_напреднали\36.Mini-Project\Program.cpp(16,14):
+          see reference to function template instantiation 'std::thread::thread<void(__cdecl &)(std::vector<int,std::allocator<int>> &,int,int),std::reference_wrapper<std::vector<int,std::allocator<int>>>,int,unsigned __int64,0>(_Fn,std::reference_wrapper<std::vector<int,std::allocator<int>>> &&,int &&,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl &)(std::vector<int,std::allocator<int>> &,int,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\thread(93,9):
+          see reference to function template instantiation 'void std::thread::_Start<void(__cdecl &)(std::vector<int,std::allocator<int>> &,int,int),_Ty,int,unsigned __int64>(_Fn,_Ty &&,int &&,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=std::reference_wrapper<std::vector<int,std::allocator<int>>>,
+              _Fn=void (__cdecl &)(std::vector<int,std::allocator<int>> &,int,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\thread(76,40):
+          see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\thread(67,17):
+          see reference to function template instantiation 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3>(void *) noexcept' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\thread(60,14):
+          see reference to function template instantiation 'void std::invoke<void(__cdecl *)(std::vector<int,std::allocator<int>> &,int,int),std::reference_wrapper<std::vector<int,std::allocator<int>>>,int,unsigned __int64>(_Callable &&,_Ty1 &&,int &&,unsigned __int64 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl *)(std::vector<int,std::allocator<int>> &,int,int),
+              _Ty1=std::reference_wrapper<std::vector<int,std::allocator<int>>>
+          ]
+  
+  36.Mini-Project.vcxproj -> D:\University\Programming with C++\Лекции-Вторник\Курсов проект\DiplomaProjectSourceCode\x64\Debug\36.Mini-Project.exe

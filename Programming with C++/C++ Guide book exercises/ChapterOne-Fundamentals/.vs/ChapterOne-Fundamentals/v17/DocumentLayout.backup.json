@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Programming with C\u002B\u002B\\C\u002B\u002B Guide book exercises\\ChapterOne-Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86B2EAB-267E-4896-B666-3DC7E5293B10}|ChapterOne-Fundamentals\\01.Exercise\\01.Exercise.vcxproj|D:\\University\\Programming with C\u002B\u002B\\C\u002B\u002B Guide book exercises\\ChapterOne-Fundamentals\\ChapterOne-Fundamentals\\01.Exercise\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86B2EAB-267E-4896-B666-3DC7E5293B10}|ChapterOne-Fundamentals\\01.Exercise\\01.Exercise.vcxproj|solutionrelative:ChapterOne-Fundamentals\\01.Exercise\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "D:\\University\\Programming with C\u002B\u002B\\C\u002B\u002B Guide book exercises\\ChapterOne-Fundamentals\\ChapterOne-Fundamentals\\01.Exercise\\Program.cpp",
+              "RelativeDocumentMoniker": "ChapterOne-Fundamentals\\01.Exercise\\Program.cpp",
+              "ToolTip": "D:\\University\\Programming with C\u002B\u002B\\C\u002B\u002B Guide book exercises\\ChapterOne-Fundamentals\\ChapterOne-Fundamentals\\01.Exercise\\Program.cpp",
+              "RelativeToolTip": "ChapterOne-Fundamentals\\01.Exercise\\Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T14:02:02.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
